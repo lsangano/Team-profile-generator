@@ -1,0 +1,19 @@
+{
+  "name": "16-stu_mock-fs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "core-util-is": "^1.0.3",
+    "inquirer": "^8.1.5",
+    "module_name": "^1.0.0"
+  }
+}

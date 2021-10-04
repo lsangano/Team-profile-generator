@@ -1,0 +1,31 @@
+body {
+    margin-bottom: 80px; 
+    background-color: #f1f1f1;    
+}
+
+/* Employee Card Style*/
+.employee-card {
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 10px 15px #6e6e6e;
+    background-color: #ebebeb;
+    text-align: left;
+}
+
+/* Employee Card Header Style */
+.card-header {
+    color: #fff;
+    border-radius: 10px;
+    background-color:  #4a00f7;  
+}
+
+/* Card Body Text Bold */
+.card-body {
+    font-weight: 500;
+    width: 350px;
+}
+
+/* Font Awesome Style */
+.fas {
+    color: rgb(250, 255, 0);
+}
